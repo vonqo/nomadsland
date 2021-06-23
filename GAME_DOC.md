@@ -23,38 +23,46 @@ Once a city of 100,000 people, Bulagt is now almost a ghost town with only its c
 # Concept & Reference
 ## Artistic Style Outline
 The setting is a ghost town full of blocky and brutalist buildings like drenched in the grey aura of stagnation all too common in the dwellings of post-socialist countries. But those buildings would be covered in corporate ads, billboards and product placement murals, as if this city was embarrassed of their socialist origin, and wanted to cover up socialist monochromatism with as much capitalist color as possible. As the city became depopulated, the grey blocks and the colorful ads would both be neglected, their mutual decay merging into a singular symbol of all-encompassing destitution that transcended any ideological aesthetic. A decay that symbolized neither the promises of socialism, nor that of capitalism were able to give nomadic Mongolia the fruits of development; and both were left to gather dust in the heaps of history. The images below was taken as reference, but imagine it a hundred times more dilapidated:
-<img src="images/image2.png">
-<img src="images/image7.png">
+
+<img src="images/image2.png" width="50%">
+<img src="images/image7.png" width="50%">
 
 ## Ideas
 
 ### Mail Tower
 Mail towers are arguably the only modern buildings that can be found within Mongolia’s factory towns. A town could be in complete ruins where most of its inhabitants live in destitution, but the town’s Mail Tower will always be well-kept and in good condition. The goods and products of the factory town are stored in the Mail Towers, where delivery drones across the country arrive to pick them up and deliver them onto nomadic citizens that ordered them online. As the most fundamental vein of Mongolia’s non-nomadic economy, the Mail Towers are highly protected by the government. One of Enkhjin’s plans involved using the Bulagt Mail Tower to distribute goods rigged with bombs.
+
 <img src="images/image8.png">
 
 ### Örtöö
 Small relay stations spread around the country and operated by government workers, the örtöö serves as a base of law enforcement, government contact center and a Wi-Fi provider for the people of the steppes. Most örtöös exist 40-80 kms apart from each other, and are usually operated by 4-8 people, known as elch. Our main character Soronzonbold is one of the aforementioned elch, and as he investigates the desolate city of Bulagt, his fellow elch will provide him with information and assistance from their örtöö home base.
-<img src="images/image6.png">
+
+<img src="images/image6.png" width="70%">
 
 ### Dankhar
 The most fundamental piece of technology that allowed the people of Mongolia to pursue a nomadic life in the 22nd century, dankhars (combination of dankh and bankhar) are a variety of robots meant to fulfill purposes such as herding cattle, protecting them from carnivorous wildlife, detecting appropriate pastures to prevent overgrazing, and meat preparation/butchery. With the struggles of pastoral life made easier through the Dankhars, most nomads get to pursue their own careers and hobbies the same way they could back in the urban cities.
-<img src="images/image1.png">
+
+<img src="images/image1.png" width="60%">
 
 ### Career Tribes
 Despite the extremely spread-out nature of nomadic Mongolians, most of them are loosely organized into tribes based on their profession (Engineering tribe, craftsmen tribe, programming tribe, etc.). A free association of those united in their career prospects, tribe members usually travel together while still living in significant distances from each other. Meeting up every few months to democratically reach decision-making in issues such as relocation, tribe budget spending, or the admittance and professional tutelage of new members.
-<img src="images/image4.png">
+
+<img src="images/image4.png" width="70%">
 
 ### Expat Nomads
 Expat Nomads are members of the tribe that work online in companies or organizations across the world, and thus have to coordinate their sleep cycle to the timezone of their employer organization. Famously includes those employed by companies from the U.S. East Coast, which has a precisely 12-hour timezone gap with Mongolia, effectively making these nomads nocturnal. By nature of working in international enterprises, the expat nomads earn far more money compared to their fellow tribesmen and are able to budgetarily contribute to the tribe far greater, and thus are usually accompanied by assistant roommates that can take care of the actual day-to-day businesses while the expat nomads get some rest.
+
 <img src="images/image5.png">
 
 ### Union of Bulagt Filmmakers
 A group of Bulagt teenagers aspiring to become filmmakers despite having pretty much no access to any filmmaking resources. Often writing down ideas on any notebook or paper they can salvage from the town, the kids come together to act out each other’s screenplays in forms of impromptu plays. The films they imagine in their head will only get to exist at that very moment. The living conditions of the town have pretty much guaranteed that these kids have no real way out of their destitution into becoming actual filmmakers. And the town’s adults don’t see much value in their plays, preferring to have the kids continue to work in factories instead.
+
 <img src="images/image3.png">
 
 # Gameplay
 ## Camera & Mechanics
 An orthographic 2D top-down camera. 
+
 <img src="images/top-down.png">
 
 ### Input mechanics
