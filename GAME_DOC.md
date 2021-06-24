@@ -1,4 +1,4 @@
-# No Man's Land (Workling Title)
+# No Man's Land (Working Title)
 
 * **Be thorough, but don't be absolute.** ```Remember that everything must be allowed to change and evolve over the course of the project, and the design document is a general description more than a blueprint. If you end up with a totally different game to the one that you laid out in the design document, as long as it's better it doesn't really matter. ```
 * **Don't be hesitant to name check other games;** ```it's often the best way to get across a point to yourself/your team members. That said, don't make that all your document is. ("The wit of Grim Fandango meets COD4-quality FPS meets LBP user-creation" sounds great, but doesn't explain what you're doing or how you're going to do it.)```
@@ -24,13 +24,29 @@ Once a city of 100,000 people, Bulagt is now almost a ghost town with only its c
 ## Artistic Style Outline
 The setting is a ghost town full of blocky and brutalist buildings like drenched in the grey aura of stagnation all too common in the dwellings of post-socialist countries. But those buildings would be covered in corporate ads, billboards and product placement murals, as if this city was embarrassed of their socialist origin, and wanted to cover up socialist monochromatism with as much capitalist color as possible. As the city became depopulated, the grey blocks and the colorful ads would both be neglected, their mutual decay merging into a singular symbol of all-encompassing destitution that transcended any ideological aesthetic. A decay that symbolized neither the promises of socialism, nor that of capitalism were able to give nomadic Mongolia the fruits of development; and both were left to gather dust in the heaps of history. The images below was taken as reference, but imagine it a hundred times more dilapidated:
 
+### Naive attempts to reclaim urban monotony that now decays just the same.
+<img src="images/reclaimingbrutalism.jpg" width="50%">
+
+### Ads and billboards covering socialist-era buildings like a half-done paintjob over an old car.
 <img src="images/image2.png" width="50%">
+
+### Modern apartments whose constructions were abandoned halfway, like an island in a sea of unfinished walkways and dirty grass.
+<img src="images/apartmentislands.jpg" width="50%">
+
+### The poor who have only the highrise left for accomodation, improvises in face of infrastructural deficiency.
+<img src="images/nofucksleft.jpg" width="50%">
+
+### Advertisement of parades, events and celebrations long ago. Decades passed since they happened, but no one bothers to replace them.
 <img src="images/image7.png" width="50%">
+
+### Looming brutalist structures, infected in its peripheries by the decor of small businesses. Now both lingers as the part of the same rot.
+<img src="images/corporateinfection.jpg" width="50%">
+
 
 ## Ideas
 
 ### Mail Tower
-Mail towers are arguably the only modern buildings that can be found within Mongolia’s factory towns. A town could be in complete ruins where most of its inhabitants live in destitution, but the town’s Mail Tower will always be well-kept and in good condition. The goods and products of the factory town are stored in the Mail Towers, where delivery drones across the country arrive to pick them up and deliver them onto nomadic citizens that ordered them online. As the most fundamental vein of Mongolia’s non-nomadic economy, the Mail Towers are highly protected by the government. One of Enkhjin’s plans involved using the Bulagt Mail Tower to distribute goods rigged with bombs.
+Mail towers are arguably one of the few actually modern buildings that can be found within Mongolia’s factory towns. A town could be in complete ruins where most of its inhabitants live in destitution, but the town’s Mail Tower will always be well-kept and in good condition. The goods and products of the factory town are stored in the Mail Towers, where delivery drones across the country arrive to pick them up and deliver them onto nomadic citizens that ordered them online. As the most fundamental vein of Mongolia’s non-nomadic economy, the Mail Towers are highly protected by the government. One of Enkhjin’s plans involved using the Bulagt Mail Tower to distribute goods rigged with bombs.
 
 <img src="images/image8.png">
 
@@ -58,6 +74,11 @@ Expat Nomads are members of the tribe that work online in companies or organizat
 A group of Bulagt teenagers aspiring to become filmmakers despite having pretty much no access to any filmmaking resources. Often writing down ideas on any notebook or paper they can salvage from the town, the kids come together to act out each other’s screenplays in forms of impromptu plays. The films they imagine in their head will only get to exist at that very moment. The living conditions of the town have pretty much guaranteed that these kids have no real way out of their destitution into becoming actual filmmakers. And the town’s adults don’t see much value in their plays, preferring to have the kids continue to work in factories instead.
 
 <img src="images/image3.png">
+
+### Lovecraftian Factories
+As the Industrial Revolution began taking hold, factories became symbols of a new way of life, the next stage of human development. For it was the factories that cemented the superiority of urban living compared to the rural one; for they represented good paying jobs, social mobility, and a symbol of pride for a nation aspiring to call itself 'developed'. In 22nd century Mongolia however, factories no longer hold the same cultural significance it once did. It is seen as a necessary evil, ugly and ancient facilities made to produce goods and materials that nomad tribes cannot. It is seen as a beacon for the lower class, for the overwhelming amount of factory workers are those too poor to become nomads. Factory workers are seen the same way that the 21st century urban population saw its rural counterpart: people too backward to integrate into modern society, but working all the destitute jobs that urban people would never take. While the workers were disregarded as an underclass, the factories themselves were built and developed  professionally and advanced enough to make sure it has to be repaired or replaced as little as possible. Factories, along with mail towers, are the dominant species in cities, they are given the greatest accomodation and consideration. And as such, factories exist as enormously large and modern complexes in comparision to urban apartments and office buildings. Like Lovecraftian eldritch giants that loom over its decaying dominion.
+
+<img src="images/factorysupremacy.jpg" width="50%">
 
 # :electric_plug: Gameplay 
 ## Camera & Mechanics
