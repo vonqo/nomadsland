@@ -127,5 +127,9 @@ In game loopable musics
 The intent of this section is to lay out, step by step, what the player experiences from as soon as they turn on the game until the end. While this can be generic and use a lot of loops (ie. Start Game -> Cutscene -> Tutorial -> loop(Cutscene -> Level -> Results Screen) -> End), it's probably a good idea to attempt to envisage how your game might be able to break up the monotony that is evident in that design.
 The great thing about this section is it gets you really thinking about what your game is and how it is presented, as opposed to the amalgam of disjointed ideas in your head. The deeper you get into this Game Flow Diagram, the more confident you will be about what your game is precisely made up of, and what the experience of playing it will be.
 
+### Progression diagram
+
+<img src="images/diagram-1.png">
+
 # :clipboard: Additional Ideas and Possibilities 
 This final section is a bit of an amalgam of everything that didn't fit in the sections before hand. It's an appendix of all of the things that you didn't think were necessarily core to the game, but you'd like to consider along the way. It's also for alternate possibilities - for instance, if you had two main characters in mind, put the better one in the main document, and then the alternate here. Finally, if you have any ideas that you're not sure about, but would like to prototype, then this is the place for that stuff as well.
