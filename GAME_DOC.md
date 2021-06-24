@@ -1,4 +1,4 @@
-# No Man's Land (Working Title)
+# Nomad's Land (Working Title)
 
 * **Be thorough, but don't be absolute.** ```Remember that everything must be allowed to change and evolve over the course of the project, and the design document is a general description more than a blueprint. If you end up with a totally different game to the one that you laid out in the design document, as long as it's better it doesn't really matter. ```
 * **Don't be hesitant to name check other games;** ```it's often the best way to get across a point to yourself/your team members. That said, don't make that all your document is. ("The wit of Grim Fandango meets COD4-quality FPS meets LBP user-creation" sounds great, but doesn't explain what you're doing or how you're going to do it.)```
