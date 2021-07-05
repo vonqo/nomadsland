@@ -1,5 +1,11 @@
 # Technical
 In this document, we will discuss how a game assets will be made.
+Im suggesting these 2 options
+* 2D painting
+* Voxel
+* 2D + Voxel
+  * 2D: background, ground, foreground, skybox layers etc..
+  * Voxel: characters, buildings, interactive objects etc..
 
 ## 2D painting
 
