@@ -166,7 +166,10 @@ Dark and slow themed children's song cover
 * Game selected song: [Зургийн хичээл](https://youtu.be/HAsMMncgQV8)
 
 ## Background music (TBD)
-In game loopable musics
+In game loopable music (Post-Britpop Blur as an inspiration for factory or urban areas)
+* Example: [Blur - Essex Dogs](https://www.youtube.com/watch?v=-I2P2bAfiXY)
+* Example: [Blur - Trailerpark](https://www.youtube.com/watch?v=Uq6ESaWItTU)
+* Example: [Blur - Jets](https://www.youtube.com/watch?v=OCuw18yIRjE)
 
 ## Sound (TBD)
 
