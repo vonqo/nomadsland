@@ -1,6 +1,7 @@
 # Technical
 In this document, we will discuss how a game assets will be made.
-Im suggesting these 2 options
+
+Im suggesting these options:
 * 2D painting
 * Voxel
 * 2D + Voxel
