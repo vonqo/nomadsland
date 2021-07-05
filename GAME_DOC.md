@@ -60,7 +60,7 @@ Mail towers are arguably one of the few actually modern buildings that can be fo
 ### Örtöö
 Small relay stations spread around the country and operated by government workers, the örtöö serves as a base of law enforcement, government contact center and a Wi-Fi provider for the people of the steppes. Most örtöös exist 40-80 kms apart from each other, and are usually operated by 4-8 people, known as elch. Our main character Soronzonbold is one of the aforementioned elch, and as he investigates the desolate city of Bulagt, his fellow elch will provide him with information and assistance from their örtöö home base.
 
-<img src="images/image6.png" width="70%">
+<img src="images/image6.png" width="60%">
 
 ### Dankhar
 The most fundamental piece of technology that allowed the people of Mongolia to pursue a nomadic life in the 22nd century, dankhars (combination of dankh and bankhar) are a variety of robots meant to fulfill purposes such as herding cattle, protecting them from carnivorous wildlife, detecting appropriate pastures to prevent overgrazing, and meat preparation/butchery. With the struggles of pastoral life made easier through the Dankhars, most nomads get to pursue their own careers and hobbies the same way they could back in the urban cities. The last remaining factory in Bulagt is in fact, a dankhar factory. By nature of being the most strategically important of Mongolian industries, the cases of disappearance around the Bulagt dankhar factory is the primary reason why Soronzonbold is sent to investigate the town.
@@ -70,7 +70,7 @@ The most fundamental piece of technology that allowed the people of Mongolia to 
 ### Death Worms
 Death worms are massive robotic worms that lurk in the deep underground of the Mongolian steppes. These worms were originally created for the purpose of discovering and digging out untapped and hidden natural resources such as oil and iron for national use. The death worms travelling underground causes small earthquakes to any ground that stands above it. While the people demanded the government to discontinue the use of death worms due to their negative effects on the local ecology, certain worms had gone rogue and went on to independently live across the endless steppes. Eternally looking for more oil, more iron and more copper. But with no one left to reap the benefits of their discoveries. While it is mostly assumed that these worms have died out, certain urban legends and sightings seem to allude that these marvelous giants still do exist.
 
-<img src="images/deathworm.png" width="60%">
+<img src="images/deathworm.png" width="40%">
 
 ### Career Tribes
 Despite the extremely spread-out nature of nomadic Mongolians, most of them are loosely organized into tribes based on their profession (Engineering tribe, craftsmen tribe, programming tribe, etc.). A free association of those united in their career prospects, tribe members usually travel together while still living in significant distances from each other. Meeting up every few months to democratically reach decision-making in issues such as relocation, tribe budget spending, or the admittance and professional tutelage of new members.
